@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\bin\Debug\net10.0\SimpleTreeDemo.exe
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\bin\Debug\net10.0\SimpleTreeDemo.deps.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\bin\Debug\net10.0\SimpleTreeDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\bin\Debug\net10.0\SimpleTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\bin\Debug\net10.0\SimpleTreeDemo.pdb
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\SimpleTreeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\SimpleTreeDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\SimpleTreeDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\SimpleTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\SimpleTreeDemo.sourcelink.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\SimpleTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\refint\SimpleTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\SimpleTreeDemo.pdb
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\SimpleTreeDemo.genruntimeconfig.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Basic Tree\SimpleTreeDemo\obj\Debug\net10.0\ref\SimpleTreeDemo.dll
