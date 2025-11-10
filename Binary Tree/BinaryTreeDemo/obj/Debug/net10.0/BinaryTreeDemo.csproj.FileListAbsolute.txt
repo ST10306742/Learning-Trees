@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\bin\Debug\net10.0\BinaryTreeDemo.exe
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\bin\Debug\net10.0\BinaryTreeDemo.deps.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\bin\Debug\net10.0\BinaryTreeDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\bin\Debug\net10.0\BinaryTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\bin\Debug\net10.0\BinaryTreeDemo.pdb
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\BinaryTreeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\BinaryTreeDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\BinaryTreeDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\BinaryTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\BinaryTreeDemo.sourcelink.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\BinaryTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\refint\BinaryTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\BinaryTreeDemo.pdb
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\BinaryTreeDemo.genruntimeconfig.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Tree\BinaryTreeDemo\obj\Debug\net10.0\ref\BinaryTreeDemo.dll
