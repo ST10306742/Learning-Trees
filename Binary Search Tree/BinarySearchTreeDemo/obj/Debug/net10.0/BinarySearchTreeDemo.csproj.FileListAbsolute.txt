@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\bin\Debug\net10.0\BinarySearchTreeDemo.exe
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\bin\Debug\net10.0\BinarySearchTreeDemo.deps.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\bin\Debug\net10.0\BinarySearchTreeDemo.runtimeconfig.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\bin\Debug\net10.0\BinarySearchTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\bin\Debug\net10.0\BinarySearchTreeDemo.pdb
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\BinarySearchTreeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\BinarySearchTreeDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\BinarySearchTreeDemo.AssemblyInfo.cs
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\BinarySearchTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\BinarySearchTreeDemo.sourcelink.json
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\BinarySearchTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\refint\BinarySearchTreeDemo.dll
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\BinarySearchTreeDemo.pdb
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\BinarySearchTreeDemo.genruntimeconfig.cache
+C:\Users\DELL\source\repos\VS Code repo\2nd Semester PROG(EB)\Learning Trees\Binary Search Tree\BinarySearchTreeDemo\obj\Debug\net10.0\ref\BinarySearchTreeDemo.dll
